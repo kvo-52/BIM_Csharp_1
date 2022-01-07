@@ -1,0 +1,8 @@
+I:\BIM\HomeWork\Lab5.1\Lab5.1\bin\Debug\Lab5.1.exe.config
+I:\BIM\HomeWork\Lab5.1\Lab5.1\bin\Debug\Lab5.1.exe
+I:\BIM\HomeWork\Lab5.1\Lab5.1\bin\Debug\Lab5.1.pdb
+I:\BIM\HomeWork\Lab5.1\Lab5.1\obj\Debug\Lab5.1.csproj.AssemblyReference.cache
+I:\BIM\HomeWork\Lab5.1\Lab5.1\obj\Debug\Lab5.1.csproj.SuggestedBindingRedirects.cache
+I:\BIM\HomeWork\Lab5.1\Lab5.1\obj\Debug\Lab5.1.csproj.CoreCompileInputs.cache
+I:\BIM\HomeWork\Lab5.1\Lab5.1\obj\Debug\Lab5.1.exe
+I:\BIM\HomeWork\Lab5.1\Lab5.1\obj\Debug\Lab5.1.pdb

@@ -1,0 +1,8 @@
+I:\BIM\HomeWork\Lab8\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+I:\BIM\HomeWork\Lab8\Lab8\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+I:\BIM\HomeWork\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+I:\BIM\HomeWork\Lab8\Lab8\bin\Debug\Lab8.exe.config
+I:\BIM\HomeWork\Lab8\Lab8\bin\Debug\Lab8.exe
+I:\BIM\HomeWork\Lab8\Lab8\bin\Debug\Lab8.pdb
+I:\BIM\HomeWork\Lab8\Lab8\obj\Debug\Lab8.exe
+I:\BIM\HomeWork\Lab8\Lab8\obj\Debug\Lab8.pdb

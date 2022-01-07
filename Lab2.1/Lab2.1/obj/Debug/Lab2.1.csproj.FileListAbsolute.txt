@@ -1,0 +1,8 @@
+I:\BIM\Blok1\Lab2.1\Lab2.1\obj\Debug\Lab2.1.csproj.AssemblyReference.cache
+I:\BIM\Blok1\Lab2.1\Lab2.1\obj\Debug\Lab2.1.csproj.SuggestedBindingRedirects.cache
+I:\BIM\Blok1\Lab2.1\Lab2.1\obj\Debug\Lab2.1.csproj.CoreCompileInputs.cache
+I:\BIM\Blok1\Lab2.1\Lab2.1\bin\Debug\Lab2.1.exe.config
+I:\BIM\Blok1\Lab2.1\Lab2.1\bin\Debug\Lab2.1.exe
+I:\BIM\Blok1\Lab2.1\Lab2.1\bin\Debug\Lab2.1.pdb
+I:\BIM\Blok1\Lab2.1\Lab2.1\obj\Debug\Lab2.1.exe
+I:\BIM\Blok1\Lab2.1\Lab2.1\obj\Debug\Lab2.1.pdb

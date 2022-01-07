@@ -1,0 +1,8 @@
+I:\BIM\HomeWork\Lab6.1\Lab6.1\bin\Debug\Lab6.1.exe.config
+I:\BIM\HomeWork\Lab6.1\Lab6.1\bin\Debug\Lab6.1.exe
+I:\BIM\HomeWork\Lab6.1\Lab6.1\bin\Debug\Lab6.1.pdb
+I:\BIM\HomeWork\Lab6.1\Lab6.1\obj\Debug\Lab6.1.csproj.AssemblyReference.cache
+I:\BIM\HomeWork\Lab6.1\Lab6.1\obj\Debug\Lab6.1.csproj.SuggestedBindingRedirects.cache
+I:\BIM\HomeWork\Lab6.1\Lab6.1\obj\Debug\Lab6.1.csproj.CoreCompileInputs.cache
+I:\BIM\HomeWork\Lab6.1\Lab6.1\obj\Debug\Lab6.1.exe
+I:\BIM\HomeWork\Lab6.1\Lab6.1\obj\Debug\Lab6.1.pdb
