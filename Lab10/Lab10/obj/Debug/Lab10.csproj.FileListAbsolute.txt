@@ -1,0 +1,8 @@
+I:\BIM\HomeWork\Lab10\Lab10\bin\Debug\Lab10.exe.config
+I:\BIM\HomeWork\Lab10\Lab10\bin\Debug\Lab10.exe
+I:\BIM\HomeWork\Lab10\Lab10\bin\Debug\Lab10.pdb
+I:\BIM\HomeWork\Lab10\Lab10\obj\Debug\Lab10.csproj.AssemblyReference.cache
+I:\BIM\HomeWork\Lab10\Lab10\obj\Debug\Lab10.csproj.SuggestedBindingRedirects.cache
+I:\BIM\HomeWork\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+I:\BIM\HomeWork\Lab10\Lab10\obj\Debug\Lab10.exe
+I:\BIM\HomeWork\Lab10\Lab10\obj\Debug\Lab10.pdb
