@@ -1,0 +1,8 @@
+I:\BIM\HomeWork\Lab12\Lab12\bin\Debug\Lab12.exe.config
+I:\BIM\HomeWork\Lab12\Lab12\bin\Debug\Lab12.exe
+I:\BIM\HomeWork\Lab12\Lab12\bin\Debug\Lab12.pdb
+I:\BIM\HomeWork\Lab12\Lab12\obj\Debug\Lab12.csproj.AssemblyReference.cache
+I:\BIM\HomeWork\Lab12\Lab12\obj\Debug\Lab12.csproj.SuggestedBindingRedirects.cache
+I:\BIM\HomeWork\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+I:\BIM\HomeWork\Lab12\Lab12\obj\Debug\Lab12.exe
+I:\BIM\HomeWork\Lab12\Lab12\obj\Debug\Lab12.pdb
