@@ -1,48 +1,54 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace App7
+﻿interface ISeries
 {
-    /*
-    метод void setStart(int x) - устанавливает начальное значение
-    метод int getNext() - возвращает следующее число ряда
-    метод void reset() - выполняет сброс к начальному значению
-     */
-    interface ISeries
+    void setStart(int startValue);
+    int getNext();
+    void reset();
+}
+class ArithProgression : ISeries
+{
+    public int StartValue;
+    public int CurrentValue;
+    public int StepValue;
+    public ArithProgression(int startValue, int stepValue)
     {
-        void setStart(int x);
-        int getNext();
-        void reset();
+        StartValue = startValue;
+        CurrentValue = startValue;
+        StepValue = stepValue;
     }
-
-    class ArithProgression : ISeries
+    public int getNext()
     {
-        int step;
-        int startValue;
-        int currentValue;
-
-        public int getNext()
-        {
-            currentValue += step;
-            return currentValue;
-        }
-
-        public void reset()
-        {
-            currentValue = startValue;
-        }
-
-        public void setStart(int x)
-        {
-            startValue = x;
-            currentValue = startValue;
-        }
-        public void setStep(int s)
-        {
-            step = s;
-        }
+        return CurrentValue += StepValue;
+    }
+    public void reset()
+    {
+        CurrentValue = StartValue;
+    }
+    public void setStart(int startValue)
+    {
+        StartValue = startValue;
+    }
+}
+class GeomProgression : ISeries
+{
+    public int StartValue;
+    public int CurrentValue;
+    public int DenomValue;
+    public GeomProgression(int startValue, int denomValue)
+    {
+        StartValue = startValue;
+        CurrentValue = startValue;
+        DenomValue = denomValue;
+    }
+    public int getNext()
+    {
+        return CurrentValue *= DenomValue;
+    }
+    public void reset()
+    {
+        CurrentValue = StartValue;
+    }
+    public void setStart(int startValue)
+    {
+        StartValue = startValue;
     }
 }
