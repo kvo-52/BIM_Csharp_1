@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task_13
+namespace Lab13
 {
     class Program
     {
@@ -28,7 +28,7 @@ namespace Task_13
 
             Console.WriteLine("Введите данные по зданию:");
             Console.Write("\nАдрес: ");
-            string address = Console.ReadLine();
+            string adress = Console.ReadLine();
             Console.Write("Длина: ");
             double length = Convert.ToDouble(Console.ReadLine());
             Console.Write("Ширина: ");
@@ -39,50 +39,16 @@ namespace Task_13
             int numberOfFloors = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
 
-            Building b = new Building(address, length, width, height);
-            Console.Write("Вывод данных класса Building: \n");
+            Building b = new Building(adress, length, width, height);
+            Console.Write("Вывод данных  Building: \n");
             b.Print();
             Console.WriteLine();
 
-            MultiBuilding mb = new MultiBuilding(address, length, width, height, numberOfFloors);
-            Console.Write("Вывод данных класса MultiBuilding: \n");
+            MultiBuilding mb = new MultiBuilding(adress, length, width, height, numberOfFloors);
+            Console.Write("Вывод данных MultiBuilding: \n");
             mb.Print();
             Console.WriteLine();
             Console.ReadKey();
         }
     }
-    class Building
-    {
-        public string Address { get; set; }
-        public double Length { get; set; }
-        public double Width { get; set; }
-        public double Height { get; set; }
-
-        public Building(string address, double length, double width, double height)
-        {
-            Address = address;
-            Length = length;
-            Width = width;
-            Height = height;
-        }
-        public void Print()
-        {
-            Console.WriteLine($"Адрес: {Address}\nДлина: {Length}\nШирина: {Width}\nВысота: {Height}");
-        }
-    }
-    sealed class MultiBuilding : Building
-    {
-        public int NumberOfFloors { get; set; }
-
-        public MultiBuilding(string address, double length, double width, double height, int numberOfFloors)
-            : base(address, length, width, height)
-        {
-            NumberOfFloors = numberOfFloors;
-        }
-        public void Print()
-        {
-            base.Print();
-            Console.WriteLine($"Количество этажей: {NumberOfFloors}");
-        }
-    }
-}
+  }
