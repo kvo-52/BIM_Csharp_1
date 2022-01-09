@@ -1,0 +1,8 @@
+I:\BIM\HomeWork_Blok-1\lab17\lab17\bin\Debug\lab17.exe.config
+I:\BIM\HomeWork_Blok-1\lab17\lab17\bin\Debug\lab17.exe
+I:\BIM\HomeWork_Blok-1\lab17\lab17\bin\Debug\lab17.pdb
+I:\BIM\HomeWork_Blok-1\lab17\lab17\obj\Debug\lab17.csproj.AssemblyReference.cache
+I:\BIM\HomeWork_Blok-1\lab17\lab17\obj\Debug\lab17.csproj.SuggestedBindingRedirects.cache
+I:\BIM\HomeWork_Blok-1\lab17\lab17\obj\Debug\lab17.csproj.CoreCompileInputs.cache
+I:\BIM\HomeWork_Blok-1\lab17\lab17\obj\Debug\lab17.exe
+I:\BIM\HomeWork_Blok-1\lab17\lab17\obj\Debug\lab17.pdb
