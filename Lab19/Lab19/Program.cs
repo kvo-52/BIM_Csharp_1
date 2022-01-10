@@ -12,7 +12,7 @@ namespace Lab19
 		public int Id { get; set; }
 		public string Mark { get; set; }
 		public string Type { get; set; }
-		public int Frequency { get; set; }
+		public int Fr { get; set; }
 		public int RAM { get; set; }
 		public int HDD { get; set; }
 		public int Video { get; set; }
@@ -37,16 +37,16 @@ namespace Lab19
 			*/
 			List<Computer> listComps = new List<Computer>()
 				{
-					new Computer(){ Id=1, Mark="Acer", Type="Intel Core i7", Frequency=4100, RAM=64, HDD=2000, Video=12, Price=75000, Stock=12},
-					new Computer(){ Id=2, Mark="HP", Type="AMD Ryzen", Frequency=3000, RAM=16, HDD=1000, Video=4, Price=35000, Stock=23},
-					new Computer(){ Id=3, Mark="HP", Type="AMD Ryzen", Frequency=3500, RAM=32, HDD=1500, Video=8, Price=55000, Stock=14},
-					new Computer(){ Id=4, Mark="Lenovo", Type="AMD Athlon", Frequency=2700, RAM=16, HDD=500, Video=4, Price=37000, Stock=16},
-					new Computer(){ Id=5, Mark="Lenovo", Type="AMD Athlon", Frequency=3200, RAM=32, HDD=750, Video=8, Price=42000, Stock=30},
-					new Computer(){ Id=6, Mark="DELL", Type="Intel Core i5", Frequency=2500, RAM=16, HDD=1000, Video=12, Price=38000, Stock=7},
-					new Computer(){ Id=7, Mark="DELL", Type="Intel Core i5", Frequency=3100, RAM=16, HDD=1000, Video=8, Price=34000, Stock=22},
-					new Computer(){ Id=8, Mark="ASUS", Type="Intel Core i7", Frequency=3600, RAM=32, HDD=1500, Video=16, Price=39000, Stock=6},
-					new Computer(){ Id=9, Mark="ASUS", Type="Intel Core i5", Frequency=2800, RAM=32, HDD=1000, Video=8, Price=36000, Stock=5},
-					new Computer(){ Id=10, Mark="ASUS", Type="Intel Core i7", Frequency=3800, RAM=64, HDD=2000, Video=16, Price=120000, Stock=2},
+					new Computer(){ Id=1, Mark="Acer", Type="Intel Core i7", Fr=4100, RAM=64, HDD=2000, Video=12, Price=75000, Stock=12},
+					new Computer(){ Id=2, Mark="HP", Type="AMD Ryzen", Fr=3000, RAM=16, HDD=1000, Video=4, Price=35000, Stock=23},
+					new Computer(){ Id=3, Mark="HP", Type="AMD Ryzen", Fr=3500, RAM=32, HDD=1500, Video=8, Price=55000, Stock=14},
+					new Computer(){ Id=4, Mark="Lenovo", Type="AMD Athlon", Fr=2700, RAM=16, HDD=500, Video=4, Price=37000, Stock=16},
+					new Computer(){ Id=5, Mark="Lenovo", Type="AMD Athlon", Fr=3200, RAM=32, HDD=750, Video=8, Price=42000, Stock=30},
+					new Computer(){ Id=6, Mark="DELL", Type="Intel Core i5", Fr=2500, RAM=16, HDD=1000, Video=12, Price=38000, Stock=7},
+					new Computer(){ Id=7, Mark="DELL", Type="Intel Core i5", Fr=3100, RAM=16, HDD=1000, Video=8, Price=34000, Stock=22},
+					new Computer(){ Id=8, Mark="ASUS", Type="Intel Core i7", Fr=3600, RAM=32, HDD=1500, Video=16, Price=39000, Stock=6},
+					new Computer(){ Id=9, Mark="ASUS", Type="Intel Core i5", Fr=2800, RAM=32, HDD=1000, Video=8, Price=36000, Stock=5},
+					new Computer(){ Id=10, Mark="ASUS", Type="Intel Core i7", Fr=3800, RAM=64, HDD=2000, Video=16, Price=120000, Stock=2},
 				};
 
 
@@ -59,7 +59,7 @@ namespace Lab19
 				.ToList();
 			Console.WriteLine();
 			foreach (Computer c in comps)
-				Console.WriteLine($"{c.Id} {c.Mark} {c.Type} {c.Frequency} {c.RAM} {c.HDD} {c.Video} {c.Price} {c.Stock}");
+				Console.WriteLine($"{c.Id} {c.Mark} {c.Type} {c.Fr} {c.RAM} {c.HDD} {c.Video} {c.Price} {c.Stock}");
 			Console.ReadKey();
 
 
@@ -71,7 +71,7 @@ namespace Lab19
 				.ToList();
 			Console.WriteLine();
 			foreach (Computer c in comps2)
-				Console.WriteLine($"{c.Id} {c.Mark} {c.Type} {c.Frequency} {c.RAM} {c.HDD} {c.Video} {c.Price} {c.Stock}");
+				Console.WriteLine($"{c.Id} {c.Mark} {c.Type} {c.Fr} {c.RAM} {c.HDD} {c.Video} {c.Price} {c.Stock}");
 			Console.ReadKey();
 
 
@@ -82,7 +82,7 @@ namespace Lab19
 				.ToList();
 			Console.WriteLine();
 			foreach (var c in compsPrice)
-				Console.WriteLine($"{c.Id} {c.Mark} {c.Type} {c.Frequency} {c.RAM} {c.HDD} {c.Video} {c.Price} {c.Stock}");
+				Console.WriteLine($"{c.Id} {c.Mark} {c.Type} {c.Fr} {c.RAM} {c.HDD} {c.Video} {c.Price} {c.Stock}");
 			Console.ReadKey();
 
 
@@ -94,7 +94,7 @@ namespace Lab19
 			{
 				Console.WriteLine(c.Key);
 				foreach (var t in c)
-					Console.WriteLine($"{t.Id} {t.Mark} {t.Type} {t.Frequency} {t.RAM} {t.HDD} {t.Video} {t.Price} {t.Stock}");
+					Console.WriteLine($"{t.Id} {t.Mark} {t.Type} {t.Fr} {t.RAM} {t.HDD} {t.Video} {t.Price} {t.Stock}");
 				Console.WriteLine();
 			}
 			Console.ReadKey();
