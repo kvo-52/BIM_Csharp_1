@@ -1,0 +1,8 @@
+I:\BIM\HomeWork_Blok-1\Lab18\Lab18\bin\Debug\Lab18.exe.config
+I:\BIM\HomeWork_Blok-1\Lab18\Lab18\bin\Debug\Lab18.exe
+I:\BIM\HomeWork_Blok-1\Lab18\Lab18\bin\Debug\Lab18.pdb
+I:\BIM\HomeWork_Blok-1\Lab18\Lab18\obj\Debug\Lab18.csproj.AssemblyReference.cache
+I:\BIM\HomeWork_Blok-1\Lab18\Lab18\obj\Debug\Lab18.csproj.SuggestedBindingRedirects.cache
+I:\BIM\HomeWork_Blok-1\Lab18\Lab18\obj\Debug\Lab18.csproj.CoreCompileInputs.cache
+I:\BIM\HomeWork_Blok-1\Lab18\Lab18\obj\Debug\Lab18.exe
+I:\BIM\HomeWork_Blok-1\Lab18\Lab18\obj\Debug\Lab18.pdb
