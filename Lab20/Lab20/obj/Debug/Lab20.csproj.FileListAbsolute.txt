@@ -1,0 +1,8 @@
+I:\BIM\HomeWork_Blok-1\Lab20\Lab20\bin\Debug\Lab20.exe.config
+I:\BIM\HomeWork_Blok-1\Lab20\Lab20\bin\Debug\Lab20.exe
+I:\BIM\HomeWork_Blok-1\Lab20\Lab20\bin\Debug\Lab20.pdb
+I:\BIM\HomeWork_Blok-1\Lab20\Lab20\obj\Debug\Lab20.csproj.AssemblyReference.cache
+I:\BIM\HomeWork_Blok-1\Lab20\Lab20\obj\Debug\Lab20.csproj.SuggestedBindingRedirects.cache
+I:\BIM\HomeWork_Blok-1\Lab20\Lab20\obj\Debug\Lab20.csproj.CoreCompileInputs.cache
+I:\BIM\HomeWork_Blok-1\Lab20\Lab20\obj\Debug\Lab20.exe
+I:\BIM\HomeWork_Blok-1\Lab20\Lab20\obj\Debug\Lab20.pdb
