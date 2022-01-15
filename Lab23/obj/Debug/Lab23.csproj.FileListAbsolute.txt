@@ -1,0 +1,7 @@
+I:\BIM\HomeWork_Blok-1\Lab23\bin\Debug\Lab23.exe.config
+I:\BIM\HomeWork_Blok-1\Lab23\bin\Debug\Lab23.exe
+I:\BIM\HomeWork_Blok-1\Lab23\bin\Debug\Lab23.pdb
+I:\BIM\HomeWork_Blok-1\Lab23\obj\Debug\Lab23.csproj.SuggestedBindingRedirects.cache
+I:\BIM\HomeWork_Blok-1\Lab23\obj\Debug\Lab23.csproj.CoreCompileInputs.cache
+I:\BIM\HomeWork_Blok-1\Lab23\obj\Debug\Lab23.exe
+I:\BIM\HomeWork_Blok-1\Lab23\obj\Debug\Lab23.pdb
