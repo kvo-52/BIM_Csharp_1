@@ -27,7 +27,7 @@ namespace Lab22
 			Console.WriteLine("\nЭлементы массива:\n");
 			for (int i = 0; i < array.Length; i++)
 			{
-				Console.Write($"{array[i]}|");
+				Console.Write($"{array[i]} ");
 			}
 			Func<int> func1 = new Func<int>(() => Sum(array));
 			Task<int> task1 = new Task<int>(func1);
